@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://mugobrian.github.io/Digital-Business-Card/static/css/main.fef70440.css",
-    "main.js": "https://mugobrian.github.io/Digital-Business-Card//static/js/main.2e4fc11c.js",
-    "Digital-Business-Card/static/media/profile.png": "https://mugobrian.github.io/Digital-Business-Card/static/media/profile.fa32e29632184b70c2c8.png",
+    "main.css": "/Digital-Business-Card/static/css/main.fef70440.css",
+    "main.js": "/Digital-Business-Card//static/js/main.2e4fc11c.js",
+    "/Digital-Business-Card/static/media/profile.png": "/Digital-Business-Card/static/media/profile.fa32e29632184b70c2c8.png",
     "index.html": "/index.html",
-    "main.fef70440.css.map": "https://mugobrian.github.io/Digital-Business-Card/static/css/main.fef70440.css.map",
-    "main.2e4fc11c.js.map": "https://mugobrian.github.io/Digital-Business-Card//static/js/main.2e4fc11c.js.map"
+    "main.fef70440.css.map": "/Digital-Business-Card/static/css/main.fef70440.css.map",
+    "main.2e4fc11c.js.map": "/Digital-Business-Card/static/js/main.2e4fc11c.js.map"
   },
   "entrypoints": [
-    "https://mugobrian.github.io/Digital-Business-Card//static/css/main.fef70440.css",
-    "https://mugobrian.github.io/Digital-Business-Card/static/js/main.2e4fc11c.js"
+    "static/css/main.fef70440.css",
+    "static/js/main.2e4fc11c.js"
   ]
 }
